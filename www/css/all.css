@@ -1,0 +1,18 @@
+div.age-gate{
+  padding: 2em;
+  border: 1px solid black;
+  background: #ccc;
+}
+
+div.age-gate-prompt{
+}
+
+div.age-gate-accept{
+  display: none;
+}
+
+div.age-gate-reject{
+  display: none;
+}
+
+
