@@ -1,4 +1,4 @@
-# SixArm.com » JavaScript » <br> Age Gate demo of a web form for a user's age
+# SixArm.com » JavaScript » <br> Age gate demo web form 
 
 * Doc: <http://sixarm.com/sixarm_javascript_age_gate/doc>
 * Gem: <http://rubygems.org/gems/sixarm_javascript_age_gate>
